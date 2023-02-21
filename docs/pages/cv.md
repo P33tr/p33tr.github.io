@@ -17,17 +17,22 @@ Azure CI /CD Pipelines.
 #### Senior Consultant
 
 ## 345.Technology
-*February 2022 - present*
+*January 2023 - Present
+**Skills** dotnet core, Azure CI/CD pipelines, Logic Apps (standard), Bicep, Power Apps, Azure functions, Azure Sql server.
+
+* Project to move a clients legacy databases into a single source so that the legacy data could be retired. I created a migration process to select the desired data elements from the legacy databases and create them in the new database. I create a Power app and its associated connectors to display the legacy data through several search views. I created the APIM and the functions that lie behind it to get the date from the database. The client was very happy wit the delivery of this project.
+
+*February 2022 - December 2022*
 
 **Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, Azure, Azure Devops, Micro services, Sql Server, Git, TDD, scrum, YAML, razor, Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps, ARM Templates, Azure CI /CD Pipelines.
 
-* [345.Technology](https://345.technology/) is a Microsoft Solutions Partner specialising in enterprise-grade applications and platforms for the cloud, where I worked on several projects for major clients including Ocado.
+* [345.Technology](https://345.technology/) is a Microsoft Solutions Partner specializing in enterprise-grade applications and platforms for the cloud, where I worked on several projects for major clients including Ocado.
 
 * As a Senior consultant I was running projects from initialisation to completion, creating running and administering azure devops boards and processes covering the complete software development lifecycle. 
 
-* The projects required detailed in deph technical knowledge of azure services. During this time I worked on Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps etc.
+* The projects required detailed in depth technical knowledge of azure services. During this time I worked on Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps etc.
 
-* I was designing high level architecture solutions for clients, as well as jumping into other projects to provide technical support and developemnt expertise when required. 
+* I was designing high level architecture solutions for clients, as well as jumping into other projects to provide technical support and development expertise when required. 
 
 * During my time at 345.technology I passed the [Azure Developer Associate certification](https://learn.microsoft.com/en-us/users/p33tr/transcript/7ozggi3xg8q5qyo).
 
