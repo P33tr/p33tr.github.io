@@ -17,12 +17,17 @@ Azure CI /CD Pipelines.
 #### Senior Consultant
 
 ## 345.Technology
-*January 2023 - Present
+
+*February 2023 - Present
+**Skills** Bicep, Azure Functions, Azure App Logic, Azure Data Lake
+* Project for a european wide renewable energy provider to centralise their data in a data lake. Writting azure functions and logic apps to take data from various feeds (SFTP) and put this data into the data lake. Functions to transform the data and convert it into parquet format.
+
+*December 2022 - January 2023
 **Skills** dotnet core, Azure CI/CD pipelines, Logic Apps (standard), Bicep, Power Apps, Azure functions, Azure Sql server.
 
 * Project to move a clients legacy databases into a single source so that the legacy data could be retired. I created a migration process to select the desired data elements from the legacy databases and create them in the new database. I create a Power app and its associated connectors to display the legacy data through several search views. I created the APIM and the functions that lie behind it to get the date from the database. The client was very happy wit the delivery of this project.
 
-*February 2022 - December 2022*
+*February 2022 - November 2022*
 
 **Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, Azure, Azure Devops, Micro services, Sql Server, Git, TDD, scrum, YAML, razor, Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps, ARM Templates, Azure CI /CD Pipelines.
 
