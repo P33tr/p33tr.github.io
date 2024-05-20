@@ -14,11 +14,19 @@ Azure CI /CD Pipelines.
 
 # Recent Experience
 
+#### Contract Senior Developer
+
+## OFGEM
+
+*May 2023 - present
+**Skills** dotnet core, asp.net, razor pages, sql server, entity framework, xunit, mediatr, azure.
+Developing a greenfield site to deliver a scheme run by Ofgem to enable grants for energy saving. Developing code in c# using razor pages for th eUI and developing api services. Deeply involved in every aspect of the SDLC.
+
 #### Senior Consultant
 
 ## 345.Technology
 
-*February 2023 - Present
+*February 2023 - May 2023 
 **Skills** Bicep, Azure Functions, Azure App Logic, Azure Data Lake
 * Project for a european wide renewable energy provider to centralise their data in a data lake. Writting azure functions and logic apps to take data from various feeds (SFTP) and put this data into the data lake. Functions to transform the data and convert it into parquet format.
 
