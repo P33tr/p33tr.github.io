@@ -3,7 +3,7 @@
 categories: [links, personal]
 
 
-*   [Twitter](https://twitter.com/petermarshall)
+*   I am no longer using twitter 😊
 *   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
 *   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
 *   Microsoft Certification
