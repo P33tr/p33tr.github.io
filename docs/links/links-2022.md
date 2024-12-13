@@ -6,3 +6,6 @@
 
 # blazor
 [Graph editor. That I should use](https://github.com/KristofferStrube/Blazor.GraphEditor?tab=readme-ov-file)
+
+# interesting reads
+[marketing and brands](https://www.alexmurrell.co.uk/articles)
