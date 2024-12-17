@@ -17,3 +17,7 @@
 # Entity Framework
 You have a comma seperated list and you want to store it in a column and be able to select where a value sis in that list?
 [EF Core 8.0: Use of Arrays with Microsoft SQL Server](https://jaliyaudagedara.blogspot.com/2024/06/ef-core-80-use-of-arrays-with-microsoft.html)
+
+# rust
+Rust modules are very very confusing. Here is an explanation. By fasterthanlime
+[Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
