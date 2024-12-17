@@ -27,8 +27,8 @@ Rust modules are very very confusing. Here is an explanation. By fasterthanlime
 [Customize The Authorization Pipeline In ASP.NET Core](https://khalidabuhakmeh.com/customize-the-authorization-pipeline-in-aspnet-core)
 
 # playwright
-[Writing automated UI tests for ASP.NET Core applications using Playwright and xUnit](https://www.meziantou.net/automated-ui-tests-an-asp-net-core-application-with-playwright-and-xunit.htm)
-[Play with Playwright](https://asp.net-hacker.rocks/2023/03/08/play-with-playwright.html)
-[In Memory Automated UI Testing ASP.NET Core](https://www.innovensa.co.uk/blog/in-memory-automated-ui-testing-aspnetcore)
-[Integration tests in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-7.0)
-[PlaywrightFixture.cs](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
+- [Writing automated UI tests for ASP.NET Core applications using Playwright and xUnit](https://www.meziantou.net/automated-ui-tests-an-asp-net-core-application-with-playwright-and-xunit.htm)
+- [Play with Playwright](https://asp.net-hacker.rocks/2023/03/08/play-with-playwright.html)
+- [In Memory Automated UI Testing ASP.NET Core](https://www.innovensa.co.uk/blog/in-memory-automated-ui-testing-aspnetcore)
+- [Integration tests in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-7.0)
+- [PlaywrightFixture.cs](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
