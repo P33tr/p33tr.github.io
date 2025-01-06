@@ -23,6 +23,9 @@ Rust modules are very very confusing. Here is an explanation. By fasterthanlime
 [Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
 
 # dotnet core 
+
+## Docker
+How do you write a Dockerfile for an ASP.NET Core app? [here](https://www.roundthecode.com/dotnet-tutorials/how-do-you-write-dockerfile-asp-net-core-app)
 ## Authroization
 [Customize The Authorization Pipeline In ASP.NET Core](https://khalidabuhakmeh.com/customize-the-authorization-pipeline-in-aspnet-core)
 
