@@ -29,6 +29,10 @@ You have a comma seperated list and you want to store it in a column and be able
 Rust modules are very very confusing. Here is an explanation. By fasterthanlime
 [Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
 
+## design patterns
+ Excellent site for design patterns.
+ [Hacking with rust](https://www.hackingwithrust.net/)
+
 # dotnet core 
 
 ## Docker
