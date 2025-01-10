@@ -18,14 +18,22 @@ Azure CI /CD Pipelines.
 
 ## OFGEM
 
-*May 2023 - December 2024
-**Skills** C#, Asp.NET, dotnet Core, Razor pages, Webservices, SQL Server, Entity Framework, Azure functions, Git, 
-*	Working in a small team developing OFGEM schemes. Developing microservices and web user interfaces in asp.net and C#. This is a government project working to the GDS specification. 
+*May 2023 - December 2024*
+
+**Skills:** C#, Asp.NET, dotnet Core, Razor pages, Webservices, SQL Server, Entity Framework, Azure functions, Git.
+
+*	Working in a small team developing OFGEM schemes. Developing microservices and web user interfaces in asp.net and C#. This is a government project working to the GDS specification.
+  
 *	I wrote the core rules engine used to make decisions in the LA Flex scheme.
+  
 *	In the second half of this contract I wrote azure functions triggered by azure service bus messages to orchestrate a number of async processes, including the emails that were sent to gov.notify.
+  
 *	I architected the solutions used and put in place the use of the Mediator pattern using mediatr.
+  
 *	The SQL server Db was kept in sync using SQL Migrations and Entity Framework was used for data access.
+  
 *	Razor pages were used for both the internal and external user interfaces with minimal or no javascript to comply with GDS specifications.
+  
 *	Everything was deployed on Azure and azure devops was used for task tracking, repos, and CI / CD pipelines.
 
 
