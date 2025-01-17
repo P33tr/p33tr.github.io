@@ -20,6 +20,10 @@ You have a comma seperated list and you want to store it in a column and be able
 
 # rust
 
+## debugging
+ In VS code [VS Code vs. Rust Rover: the debugging experience By  Iede Snoek site: Hacking with rust](https://www.hackingwithrust.net/2023/09/22/vs-code-vs-rust-rover-the-debugging-experience/)
+
+ 
 ## tutorials
 
  [An interactive book](https://freddiehaddad.github.io/fast-track-to-rust/introduction.html)
