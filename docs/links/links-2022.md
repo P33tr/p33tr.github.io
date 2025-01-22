@@ -14,6 +14,9 @@
  So youve got dotnet 9 but you want to use swagger
 [ASP.NET Core 9.0: Microsoft.AspNetCore.OpenApi and Swagger UI](https://jaliyaudagedara.blogspot.com/2024/12/aspnet-core-90-microsoftaspnetcoreopena.html)
 
+More on this here because I know I am going to need it.
+(Swagger is Dead? Here's the Alternative!)[https://codewithmukesh.com/blog/dotnet-swagger-alternatives-openapi/]
+
 # Entity Framework
 You have a comma seperated list and you want to store it in a column and be able to select where a value sis in that list?
 [EF Core 8.0: Use of Arrays with Microsoft SQL Server](https://jaliyaudagedara.blogspot.com/2024/06/ef-core-80-use-of-arrays-with-microsoft.html)
