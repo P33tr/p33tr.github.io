@@ -16,8 +16,8 @@ theme:
     - navigation.tabs
     - navigation.expand
     - navigation.sections
-  logo: img/peterAvatar-removebg.png
-  favicon: img/peterAvatar-removebg.png
+  logo: img/peter_iow_fell_races_small.jpg
+  favicon: img/peter_iow_fell_races_small.jpg
 
   features:
     - navigation.instant
