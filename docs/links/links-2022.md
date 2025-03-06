@@ -53,3 +53,6 @@ How do you write a Dockerfile for an ASP.NET Core app? [here](https://www.roundt
 - [In Memory Automated UI Testing ASP.NET Core](https://www.innovensa.co.uk/blog/in-memory-automated-ui-testing-aspnetcore)
 - [Integration tests in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-7.0)
 - [PlaywrightFixture.cs](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
+
+# scafolding
+- [dotnet scaffold – Next Generation Content Creation for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/)
