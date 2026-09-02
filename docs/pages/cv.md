@@ -14,6 +14,21 @@ Azure CI /CD Pipelines.
 
 # Recent Experience
 
+### Senior Developer (Contract)
+
+## Home Office (gov.uk)
+
+*January 2025 - September 2026*
+**Skills:** C#, Asp.NET, dotnet Core, Razor pages, Webservices, SQL Server, Entity Framework, Git, Specflow, Reqnrol, Service Fabric, Azure Functions, Service Bus, Aspire.
+* Working in a small team supporting and developing the NIAM Services (National Identity and Authorisation Management).
+* Upgrading web services from .net 3.1 to dotnet core 8.0
+* Converting integration tests from Specflow to Reqnrol.
+* Resurrecting and bringing up to date an API that is part of the critical national infrastructure. Developing new functionality for this API. Adapting the API to work with a new front end written in React.
+* Proof of Concept using Razor pages to demonstrate a possible UI solution.
+* Everything was deployed on Azure and azure devops was used for task tracking, repos, and CI / CD pipelines.
+* Active SC / NPPV3 clearance.
+
+  
 #### Contract Senior Developer
 
 ## OFGEM
