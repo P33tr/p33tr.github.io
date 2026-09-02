@@ -1,0 +1,10 @@
+
+Right click at the project level and select add / container orchestrator support.
+Select  Select Kubernetes/Helm
+If its not installed update visual studio individual components
+
+install the [Kubernetes tools for visual studio](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+You can debug code runing on the kubernetes with [bridge to kuberbnetes](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.mindaro2022) 
+
+I installed chocolatey from [here](https://chocolatey.org/install)
+That gave me the helm cli. From there I went tot he root of my application and ran "helm create myapi" and this generated a whole bunch of files under myapi folder.
